@@ -13,12 +13,6 @@
         
         Random rnd = new Random();
         int value = rnd.Next(1, 3);
-
-        switch(text)
-        {
-            case "rock": 
-            if()
-        }
-
+        
     }
 }
