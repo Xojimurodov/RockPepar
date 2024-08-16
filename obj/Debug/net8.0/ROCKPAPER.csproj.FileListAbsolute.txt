@@ -1,0 +1,15 @@
+C:\Users\HP\Projects\ROCKPAPER\bin\Debug\net8.0\ROCKPAPER.exe
+C:\Users\HP\Projects\ROCKPAPER\bin\Debug\net8.0\ROCKPAPER.deps.json
+C:\Users\HP\Projects\ROCKPAPER\bin\Debug\net8.0\ROCKPAPER.runtimeconfig.json
+C:\Users\HP\Projects\ROCKPAPER\bin\Debug\net8.0\ROCKPAPER.dll
+C:\Users\HP\Projects\ROCKPAPER\bin\Debug\net8.0\ROCKPAPER.pdb
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.AssemblyInfoInputs.cache
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.AssemblyInfo.cs
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.csproj.CoreCompileInputs.cache
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.sourcelink.json
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.dll
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\refint\ROCKPAPER.dll
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.pdb
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ROCKPAPER.genruntimeconfig.cache
+C:\Users\HP\Projects\ROCKPAPER\obj\Debug\net8.0\ref\ROCKPAPER.dll

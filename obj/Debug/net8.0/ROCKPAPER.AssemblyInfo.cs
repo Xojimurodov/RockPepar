@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ROCKPAPER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5178fb9210fc063bc1b29830606d952f298834d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ROCKPAPER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ROCKPAPER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
